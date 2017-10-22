@@ -1,2 +1,0 @@
-# reutti
-coursera
